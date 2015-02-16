@@ -6,4 +6,4 @@ $ python archiver.py
 
 It asks for you the bookID of a archived magazine from http://www.pressacademyarchives.ap.nic.in/MagazineTil.aspx 
 
-Just enter ID and hit enter,sit back. It downloads that book for you to your computer.
+Just enter ID and hit enter,sit back. It downloads that book to your computer.
